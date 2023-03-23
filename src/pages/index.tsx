@@ -1,7 +1,9 @@
+/* ==================================== Audit Log ======================================== *
+ * Created on: 23/03/23
+ * Description: This file is the main landing page for the default URL.
+/* ======================================================================================== */
 import Head from "next/head";
-import Image from "next/image";
 import { Inter } from "next/font/google";
-import styles from "@/styles/Home.module.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
